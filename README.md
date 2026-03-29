@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Achint Bhatia 👋
 
-<!--
-**achint25mip10167-hub/achint25mip10167-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech (Data Science and Computation) Student  
+🏫 VIT Bhopal University  
+🆔 Registration No: 25MIP10167  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+I am a student interested in Data Science, Machine Learning, and programming.  
+I want to build strong technical skills and create real-world projects during my degree.
+
+---
+
+## 🛠️ Skills I'm Learning
+- Python
+- Machine Learning Basics
+- Data Analytics
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+- Improve problem-solving skills
+- Build projects in Data Science
+- Participate in Kaggle competitions
+- Prepare for internships and placements
